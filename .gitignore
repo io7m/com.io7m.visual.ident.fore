@@ -1,3 +1,5 @@
 *.blend1
 foreSound/peaks
 foreSound/dead
+foreExSound/peaks
+foreExSound/dead
